@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f14a","FontColor":"#293e40","BackgroundColor":"#293e40","Name":"icon-Check-Square"}</icon>
+        <name>icon-Check-Square</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-16 18:20:29</sys_created_on>
+        <sys_id>a07adb8107a0201005a4f48f7c1ed0dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Check-Square</sys_name>
+        <sys_package display_value="Shop List" source="x_549576_shop_list">25789f4d0760201005a4f48f7c1ed0b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shop List">25789f4d0760201005a4f48f7c1ed0b1</sys_scope>
+        <sys_update_name>sys_sg_icon_a07adb8107a0201005a4f48f7c1ed0dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-16 18:20:29</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
